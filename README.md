@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katlj
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning TBD
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning more about the concepts behind Data Structures & Algorithms.
+- 🌱 I’m currently learning UX Design and product management.
+- 💞️ I’m looking to collaborate on projects that are aimed at solving modern day issues within the healthcare field.
 - 📫 How to reach me ...
 
 <!---
